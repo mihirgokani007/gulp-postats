@@ -8,6 +8,7 @@
     "url": "https://github.com/mihirgokani007/gulp-postats/issues"
   },
   "dependencies": {
+    "chalk": "^1.1.3",
     "cli-table": "^0.3.1",
     "gulp-util": "^3.0.7",
     "pofile": "^1.0.2",
@@ -27,8 +28,7 @@
     "gettext",
     "translation",
     "info",
-    "stats",
-    "angular"
+    "stats"
   ],
   "license": "MIT",
   "main": "index.js",
